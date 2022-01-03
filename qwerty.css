@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: chartreuse;
+}
+#app{
+    margin-right: 60px;
+}
+#game{
+    margin-right: 100px;
+}
